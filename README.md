@@ -12,6 +12,4 @@ Das Projekt ist hauptsächlich in HTML geschrieben.
 
 Beiträge sind immer willkommen! Bitte erstellen Sie ein Issue, um über das Problem zu diskutieren, bevor Sie einen Pull Request erstellen.
 
-## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert.
